@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grammatical Inflection API Demo</string>
+    <string name="string_one">He is a skilled musician</string>
+    <string name="string_two">Ankit is a brilliant mathematician</string>
+</resources>

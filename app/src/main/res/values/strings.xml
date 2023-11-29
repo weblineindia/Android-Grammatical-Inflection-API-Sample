@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grammatical Inflection API Demo</string>
+    <string name="string_one">you can create beautiful melodies</string>
+    <string name="string_two">you are great in your job</string>
+
+    <string-array name="gender_list">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Neuter</item>
+    </string-array>
+</resources>
